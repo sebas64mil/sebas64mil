@@ -52,8 +52,8 @@
 
 ### 🌐 Portafolio y contacto
 - 🎨 [Behance](https://www.behance.net/juanserincon5)  
-- 📸 [Instagram](https://www.instagram.com/TU-USUARIO)  
-- 🎮 [Itch.io](https://TU-USUARIO.itch.io)  
+- 📸 [Instagram](https://www.instagram.com/sercbew)  
+- 🎮 [Itch.io](https://serbew.itch.io)  
 - ✉️ Email: **vsebasjrincon12@gmail.com**  
 - 📍 Bogotá, Colombia  
 
