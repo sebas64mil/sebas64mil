@@ -9,7 +9,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🚀 Sobre mí
+<h3>🚀 Sobre mí</h3>
+
 - 🎓 **Ingeniero Multimedia** de la Universidad San Buenaventura (Bogotá).  
 - 🕹️ Experiencia como **monitor en videojuegos y diseño web**.  
 - 🌐 Participación en **proyectos universitarios de Realidad Virtual**.  
@@ -18,14 +19,16 @@
 
 ---
 
-### 🛠️ Habilidades principales
+<h3>🛠️ Habilidades principales</h3>
+
 - **Unity (C#):** UI Development, Animation & Blend Trees, Particle Systems, Shaders, VR Development, Lighting & Optimization.  
-- **UX/UI:** Conceptos de diseño, teoría del color y psicología, proporción áurea, prototipado en Figma.  
-- **Diseño multimedia:** VFX, prototipos interactivos, optimización visual.  
+- **UX/UI:** Diseño de interfaces en **Figma** (prototipos interactivos y diseño cercano a entornos web), prototipado de pruebas, y uso de **Photoshop** para el aspecto artístico y visual.  
+- **Diseño multimedia y Game Design:** Creación de VFX, desarrollo de mecánicas de juego, manejo de **Timeline**, **NavMesh** para IA de navegación, **Cinemachine** para cámaras dinámicas, y diseño de prototipos interactivos optimizados.  
+
 
 ---
 
-### 🧰 Lenguajes y Herramientas
+<h3>🧰 Lenguajes y Herramientas</h3>
 <p align="left">
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -49,13 +52,25 @@
 
 ---
 
+<h3>📊 Mis estadísticas de GitHub</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebas64mil&show_icons=true&theme=tokyonight&layout=compact" height="150"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sebas64mil&show_icons=true&theme=tokyonight" height="150"/>
+</p>
 
-### 🌐 Portafolio y contacto
+<br><br><br><br><br><br><br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebas64mil&theme=tokyonight" alt="Streak Stats"/>
+</p>
+
+---
+
+<h3>🌐 Portafolio y contacto</h3>
+
 - 🎨 [Behance](https://www.behance.net/juanserincon5)  
 - 📸 [Instagram](https://www.instagram.com/sercbew)  
 - 🎮 [Itch.io](https://serbew.itch.io)  
 - ✉️ Email: **vsebasjrincon12@gmail.com**  
 - 📍 Bogotá, Colombia  
 
-
----
