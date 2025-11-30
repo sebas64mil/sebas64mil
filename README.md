@@ -1,76 +1,72 @@
-<h1 align="center">Hola 👋, soy Juan Sebastián Rincón Villamil</h1>
+<!--horizontal divider(gradiant)-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Sebastian Villamil (Serbew)</h1></summary>
+  </ul>
+</div>
+
+<!--Intro with two columns-->
+
+<table align="center" width="90%">
+<tr>
+<td valign="top" width="50%">
+  <h2 align="center">Español</h2>
+  <p>
+    Soy de Ingenierío Multimedia enfocado en crear experiencias inmersivas e interactivas. Mi forma de trabajar combina tanto áreas técnicas como creativas: desde programación, lógica y física, hasta elementos visuales como partículas, sprites y modelos 3D, para llevar cada proyecto a otro nivel.
+  </p>
+  <p>
+    Me especializo en diseño de videojuegos, UI/UX y efectos visuales (VFX). Además, cuento con una base sólida en programación, arte 2D y 3D, y otras disciplinas relacionadas con el desarrollo de videojuegos. Mi objetivo personal es convertirme en un referente de la industria y trabajar tanto en proyectos personales como en colaboraciones que lleven la creatividad y la tecnología a un nuevo nivel.
+  </p>
+  <p>
+    He formado parte de un semillero universitario de videojuegos, donde contribuí en la creación no solo de juegos, sino también de experiencias inmersivas como proyectos en VR. Además, he desarrollado proyectos personales de alto nivel, siendo el más avanzado un juego que comienza como una experiencia de sigilo en primera persona en 3D y evoluciona a un plataformas 2D, cambiando dinámicamente la forma en que el jugador interactúa con el mundo. Siempre abierto a aprender, colaborar y dar vida a ideas innovadoras.
+  </p>
+</td>
+
+<td valign="top" width="50%">
+  <h2 align="center">English</h2>
+  <p>
+    I am a Multimedia Engineering focused on creating immersive and interactive experiences. My approach combines both technical and creative areas — from programming, logic, and physics to visual design elements such as particles, sprites, and 3D models — in order to take each project to the next level.
+  </p>
+  <p>
+    I specialize in game design, UI/UX, and VFX, and I also have a solid foundation in programming, 2D and 3D art, and other disciplines connected to game development. My personal goal is to become a reference in the industry and to work on both personal and collaborative projects that push creative and technological boundaries.
+  </p>
+  <p>
+    I’ve been part of a university game development research group, where I contributed to the creation of not only video games but also immersive experiences such as VR projects. Additionally, I’ve developed professional personal projects — the most advanced being a game that begins as a 3D first-person stealth experience and transitions into a 2D platformer, dynamically changing the way the player interacts with the world. Always open to learning, collaborating, and bringing innovative ideas to life.
+  </p>
+</td>
+</tr>
+</table>
+
+<!--- stats & languages (start) -->
+
+<!-- Languages Table Only -->
 
 <p align="center">
-  🎮 <em>Ingeniero Multimedia especializado en experiencias inmersivas (AR, VR y videojuegos).  
-  Apasionado por el Game Design, los VFX y el desarrollo de UI/UX, combinando creatividad con técnica para crear proyectos de alto impacto.</em> ✨
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebas64mil&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
----
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<h3>🚀 Sobre mí</h3>
-
-- 🎓 **Ingeniero Multimedia** de la Universidad San Buenaventura (Bogotá).  
-- 🕹️ Experiencia como **monitor en videojuegos y diseño web**.  
-- 🌐 Participación en **proyectos universitarios de Realidad Virtual**.  
-- 🖌️ Dominio de **Figma, Unity, Photoshop y Blender**.  
-- 💡 Me caracterizo por ser **responsable, disciplinado y comprometido**.  
-
----
-
-<h3>🛠️ Habilidades principales</h3>
-
-- **Unity (C#):** UI Development, Animation & Blend Trees, Particle Systems, Shaders, VR Development, Lighting & Optimization.  
-- **UX/UI:** Diseño de interfaces en **Figma** (prototipos interactivos y diseño cercano a entornos web), prototipado de pruebas, y uso de **Photoshop** para el aspecto artístico y visual.  
-- **Diseño multimedia y Game Design:** Creación de VFX, desarrollo de mecánicas de juego, manejo de **Timeline**, **NavMesh** para IA de navegación, **Cinemachine** para cámaras dinámicas, y diseño de prototipos interactivos optimizados.  
-
-
----
-
-<h3>🧰 Lenguajes y Herramientas</h3>
-<p align="left">
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3>📊 Mis estadísticas de GitHub</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebas64mil&show_icons=true&theme=tokyonight&layout=compact" height="150"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sebas64mil&show_icons=true&theme=tokyonight" height="150"/>
-</p>
-
-<br><br><br><br><br><br><br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebas64mil&theme=tokyonight" alt="Streak Stats"/>
+  <a href="https://www.serbew.games/" target="_blank">🌐 Website</a> &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/serbew__/" target="_blank">📸 Instagram</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/juan-sebastian-rincon-villamil-26a38a340/" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://serbew.itch.io" target="_blank">🎮 Itch.io</a>
 </p>
 
----
+<!--horizontal divider(gradiant)-->
 
-<h3>🌐 Portafolio y contacto</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🎨 [Behance](https://www.behance.net/juanserincon5)  
-- 📸 [Instagram](https://www.instagram.com/sercbew)  
-- 🎮 [Itch.io](https://serbew.itch.io)  
-- ✉️ Email: **vsebasjrincon12@gmail.com**  
-- 📍 Bogotá, Colombia  
+<hr>
+Credit: [Sebastian Villamil (Serbew)](https://github.com/sebas64mil)
 
