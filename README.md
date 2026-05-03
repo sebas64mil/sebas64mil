@@ -17,26 +17,26 @@
 <td valign="top" width="50%">
   <h2 align="center">Español</h2>
   <p>
-    Soy de Ingenierío Multimedia enfocado en crear experiencias inmersivas e interactivas. Mi forma de trabajar combina tanto áreas técnicas como creativas: desde programación, lógica y física, hasta elementos visuales como partículas, sprites y modelos 3D, para llevar cada proyecto a otro nivel.
+    Soy Ingeniero en Multimedia especializado en crear experiencias inmersivas e interactivas. Mi trabajo abarca tanto desarrollo de frontend interactivo para web y mobile (React, Vue.js, con integración de tecnologías 3D) como la creación de experiencias inmersivas complejas.
   </p>
   <p>
-    Me especializo en diseño de videojuegos, UI/UX y efectos visuales (VFX). Además, cuento con una base sólida en programación, arte 2D y 3D, y otras disciplinas relacionadas con el desarrollo de videojuegos. Mi objetivo personal es convertirme en un referente de la industria y trabajar tanto en proyectos personales como en colaboraciones que lleven la creatividad y la tecnología a un nuevo nivel.
+    Me enfoco en el diseño y desarrollo de experiencias inmersivas que combinan videojuegos, VFX (efectos visuales) y contenido interactivo. Tengo una sólida base en programación, UI/UX, arte 2D y 3D, y todas las disciplinas técnicas y creativas necesarias para llevar proyectos digitales desde la concepción hasta la ejecución.
   </p>
   <p>
-    He formado parte de un semillero universitario de videojuegos, donde contribuí en la creación no solo de juegos, sino también de experiencias inmersivas como proyectos en VR. Además, he desarrollado proyectos personales de alto nivel, siendo el más avanzado un juego que comienza como una experiencia de sigilo en primera persona en 3D y evoluciona a un plataformas 2D, cambiando dinámicamente la forma en que el jugador interactúa con el mundo. Siempre abierto a aprender, colaborar y dar vida a ideas innovadoras.
+    He formado parte de un semillero universitario de videojuegos, donde desarrollé tanto experiencias inmersivas como proyectos VR. Además, he trabajado en la integración de tecnologías 3D en aplicaciones interactivas frontend, creando interfaces dinámicas y visuales que fusionan web/mobile con gráficos avanzados.
   </p>
 </td>
 
 <td valign="top" width="50%">
   <h2 align="center">English</h2>
   <p>
-    I am a Multimedia Engineering focused on creating immersive and interactive experiences. My approach combines both technical and creative areas — from programming, logic, and physics to visual design elements such as particles, sprites, and 3D models — in order to take each project to the next level.
+    I am a Multimedia Engineer specialized in creating immersive and interactive experiences. My work encompasses both interactive frontend development for web and mobile (React, Vue.js, with 3D technology integration) as well as complex immersive experiences.
   </p>
   <p>
-    I specialize in game design, UI/UX, and VFX, and I also have a solid foundation in programming, 2D and 3D art, and other disciplines connected to game development. My personal goal is to become a reference in the industry and to work on both personal and collaborative projects that push creative and technological boundaries.
+    I focus on designing and developing immersive experiences that combine video games, VFX (visual effects), and interactive content. I have a solid foundation in programming, UI/UX, 2D and 3D art, and all the technical and creative disciplines needed to take digital projects from conception to execution.
   </p>
   <p>
-    I’ve been part of a university game development research group, where I contributed to the creation of not only video games but also immersive experiences such as VR projects. Additionally, I’ve developed professional personal projects — the most advanced being a game that begins as a 3D first-person stealth experience and transitions into a 2D platformer, dynamically changing the way the player interacts with the world. Always open to learning, collaborating, and bringing innovative ideas to life.
+    I've been part of a university game development research group, where I developed immersive experiences and VR projects. Additionally, I've worked on integrating 3D technologies into interactive frontend applications, creating dynamic and visually rich interfaces that blend web/mobile with advanced graphics.
   </p>
 </td>
 </tr>
