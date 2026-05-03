@@ -99,6 +99,8 @@ Additionally, I actively participate in game jams such as Global Game Jam and sp
 </p>
 
 ---
+<h2 align="center">🐍 GitHub Activity</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebas64mil/sebas64mil/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebas64mil/sebas64mil/output/github-contribution-grid-snake.svg">
@@ -109,7 +111,7 @@ Additionally, I actively participate in game jams such as Global Game Jam and sp
 ---
 
 <!-- Languages Table Only -->
-
+<h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebas64mil&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
