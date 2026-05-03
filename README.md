@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lemon&pause=1000&color=C3ECF7&center=true&vCenter=true&width=435&lines=Forging+worlds+where+interaction+becomes+the+story;Designing+interfaces+that+feel+more+like+experiences+than+screens;Building+consistency+where+motivation+is+not+enough" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Lemon&pause=1000&color=C3ECF7&center=true&vCenter=true&width=800&lines=Forging+worlds+where+interaction+becomes+the+story;Designing+interfaces+that+feel+more+like+experiences+than+screens;Building+consistency+where+motivation+is+not+enough" alt="Typing SVG" />
 </p>
 
 <!--Intro with two columns-->
