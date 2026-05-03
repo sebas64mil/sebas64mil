@@ -68,29 +68,34 @@ Additionally, I actively participate in game jams such as Global Game Jam and sp
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
-<p align="center">
 
-  <!-- Game Dev -->
+<h3 align="center">🎮 Game Development</h3>
+<p align="center">
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
   <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
+</p>
 
-  <!-- Frontend -->
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-  <!-- Frameworks -->
+<h3 align="center">⚛️ Frameworks</h3>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+</p>
 
-  <!-- Design & Art -->
+<h3 align="center">🎨 Design & Tools</h3>
+<p align="center">
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-
 </p>
 
 ---
