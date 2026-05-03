@@ -10,6 +10,11 @@
   </ul>
 </div>
 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Lemon&pause=1000&color=C3ECF7&center=true&vCenter=true&width=435&lines=Forging+worlds+where+interaction+becomes+the+story;Designing+interfaces+that+feel+more+like+experiences+than+screens;Building+consistency+where+motivation+is+not+enough" alt="Typing SVG" />
+</p>
+
 <!--Intro with two columns-->
 
 <table align="center" width="90%">
@@ -88,12 +93,6 @@ Additionally, I actively participate in game jams such as Global Game Jam and sp
 
 </p>
 
-<!-- Languages Table Only -->
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebas64mil&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</p>
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebas64mil/sebas64mil/output/github-contribution-grid-snake-dark.svg">
@@ -103,6 +102,13 @@ Additionally, I actively participate in game jams such as Global Game Jam and sp
 
 ###
 ---
+
+<!-- Languages Table Only -->
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebas64mil&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</p>
+
 
 <div id="user-content-toc">
   <ul align="center">
